@@ -1,10 +1,13 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
- 
+
+[dev-packages]
+
 [packages]
-flask = "3.0.2"
- 
+flask = "*"
+selenium = "*"
+
 [requires]
-python_version = "3.9"
+python_version = "3.7"
