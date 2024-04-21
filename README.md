@@ -2,7 +2,8 @@
 
 Take a screenshot of URL using API
 
-> Unfortunately, Vercel does not support this type of application.
+> [!warning]
+> *Unfortunately, Vercel does not support this type of application.*
 
 ## To locally execute the project
 
