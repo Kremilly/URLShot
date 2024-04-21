@@ -25,6 +25,7 @@ To run the server, use:
 python index.py
 ```
 
+> [!note]
 > ***IMPORTANT***: Download and Install the EdgeDriver, you can download this [link](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?ch=1&form=MA13LH#downloads)
 
 ### Example of request
