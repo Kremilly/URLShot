@@ -2,7 +2,8 @@
 
 Take a screenshot of URL using API
 
-> Unfortunately, Vercel does not support this type of application.
+> [!warning]
+> *Unfortunately, [**Vercel**](https://vercel.com) does not support this type of application.*
 
 ## To locally execute the project
 
@@ -24,6 +25,7 @@ To run the server, use:
 python index.py
 ```
 
+> [!note]
 > ***IMPORTANT***: Download and Install the EdgeDriver, you can download this [link](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?ch=1&form=MA13LH#downloads)
 
 ### Example of request
